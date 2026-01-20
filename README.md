@@ -2,7 +2,7 @@
 自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP
 
 ## 更新时间：
-IP地址库更新于2026年01月18日
+IP地址库更新于2026年01月20日
 
 ## 用法
 推荐在 CloudflareSpeedTest 目录下执行脚本，方便后续 CloudflareSpeedTest 直接读取 IPlus.txt 测速。
